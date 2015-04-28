@@ -1,0 +1,23 @@
+.thumbnail {
+	margin-bottom:7px;
+}
+.selected,.active {border:solid 3px red;}
+.highlight{border:solid 3px red;}
+div.thumb {min-height: 280px;}
+.resized {
+          position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border: 2px transparent solid;
+}
+.fimagesaved {  position: absolute;
+  left: -50%;
+  top: -50%;
+}
+    }
+@media (max-width:667px) {
+         
+   div.thumb {min-height: 100px;}      
+         
+}
