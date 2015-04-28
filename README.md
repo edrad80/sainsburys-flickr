@@ -1,2 +1,2 @@
 # sainsburys-flickr
-to build a page that show pictures using this flickr service.
+Build a page that show pictures using this flickr API. Storing saved images using LocalStorage with unique id
